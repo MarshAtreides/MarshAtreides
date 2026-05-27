@@ -20,9 +20,9 @@ A multi-disciplinary Roblox Developer focused on creating immersive worlds, high
 
 ## 📊 Github Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarshAtreides&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MarshAtreides&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Statistics" width="49%" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarshAtreides&theme=dark" height="195" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarshAtreides&show_icons=true&theme=dark&custom_title=MarshAtreides%27s%20GitHub%20Statistics&count_private=true&include_all_commits=true" height="195" alt="GitHub Statistics" />
 </p>
 
 <p align="right">
