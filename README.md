@@ -22,11 +22,11 @@ A multi-disciplinary Roblox Developer focused on creating immersive worlds, high
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarshAtreides&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MarshAtreides&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&custom_title=MarshAtreides's%20GitHub%20Statistics" alt="GitHub Statistics" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarshAtreides&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Statistics" width="49%" />
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghvc/?username=MarshAtreides&label=Total%20Visitors&color=007ec6&style=flat-square" alt="Total Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=MarshAtreides&label=Total%20Visitors&color=007ec6&style=flat-square" alt="Total Visitors" />
 </p>
 
 ---
