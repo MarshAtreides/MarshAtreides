@@ -5,7 +5,7 @@ A multi-disciplinary Roblox Developer focused on creating immersive worlds, high
 
 ---
 
-## 🛠️ My Skillset
+## 🛠️ My Skillset <img src="https://camo.githubusercontent.com/c046573d7598d2b619310a82caccd33ca2cc898c9ef6965789559de012bf3107/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35" >
 
 - **3D Modeling & Building:** Environment design, low-poly & optimized asset creation, topology cleanup, and mesh optimization in Blender.
 - **UI/UX Design:** Modern, clean, and highly structured user interfaces crafted in Figma and Photoshop.
