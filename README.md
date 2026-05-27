@@ -16,11 +16,17 @@ A multi-disciplinary Roblox Developer focused on creating immersive worlds, high
 
 ## 🚀 Showcases & Projects
 *✨ Coming Soon... ✨*
----## 📊 GitHub Stats
+---
+
+## 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarshAtreides&show_icons=true&theme=visual_studio_dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarshAtreides&layout=compact&theme=visual_studio_dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarshAtreides&theme=visual_studio_dark" alt="GitHub Streak Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarshAtreides&show_icons=true&theme=visual_studio_dark&show=stars,forks,commits,lines_changed,views,contribs" alt="MarshAtreides GitHub Statistics" width="49%" />
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghvc/?username=MarshAtreides&label=Total%20Visitors&color=00a2ff&style=flat-square" alt="Total Visitors" />
 </p>
 
 ---
