@@ -1,26 +1,21 @@
-# Hi there, I'm MarshAtreides! 👋
-### Multi-disciplinary Roblox Developer | 3D Modeler & UI Designer
+# Hi there, I'm MarshAtreides! 🇹🇷👋
+### Experienced 3D Modeller | Builder | UI Designer | SFX & GFX Maker | Animator
 
-I am a passionate Roblox Developer specializing in creating high-quality, immersive experiences. With a strong background in both technical workflows and visual arts, I bridge the gap between clean code and stunning aesthetics.
+A multi-disciplinary Roblox Developer focused on creating immersive worlds, high-quality visual assets, and dynamic animations. I specialize in bridging the gap between artistic vision and game engine optimization.
 
 ---
 
 ## 🛠️ My Skillset
 
-- **UI/UX Design:** Modern interfaces, smooth transitions, customized gradients, Figma, Photoshop.
-- **3D Modeling & Animation:** Blender asset optimization, high-to-low poly workflows, custom character rigging.
-- **Scripting:** Luau, Rojo workflow, modular UI systems, tweening-heavy front-end logic.
-- **Other:** GFX Making, SFX Design, Discord Automation Bots.
+- **3D Modeling & Building:** Environment design, low-poly & optimized asset creation, topology cleanup, and mesh optimization in Blender.
+- **UI/UX Design:** Modern, clean, and highly structured user interfaces crafted in Figma and Photoshop.
+- **Animation & Rigging:** Custom character and asset rigging, smooth keyframe animations in Blender and Roblox Studio.
+- **GFX & SFX Making:** High-end promotional graphics, game icons, thumbnails, and custom-tailored sound effects for games.
 
 ---
 
-## 🚀 Featured Roblox UI Showcase
-
-<p align="center">
-  <img src="https://via.placeholder.com/400x225.png?text=Your+Roblox+UI+Screenshot+1" width="45%" />
-  <img src="https://via.placeholder.com/400x225.png?text=Your+Roblox+UI+Screenshot+2" width="45%" />
-</p>
-
+## 🚀 Showcases & Projects
+*✨ Coming Soon... ✨*
 ---
 
 ## 📊 GitHub Stats
@@ -34,4 +29,6 @@ I am a passionate Roblox Developer specializing in creating high-quality, immers
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Roblox_DevForum-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](YOUR_DEVFORUM_LINK)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@marshatreides)
+[![Twitter/X](https://img.shields.io/badge/Twitter_X-13171A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MarshAtreides)
+[![Roblox](https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/10032960193/profile)
