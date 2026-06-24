@@ -5,6 +5,6 @@ A multi-disciplinary Roblox Developer focused on creating immersive worlds, high
 
 ## 🌐 Connect With Me
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@marshatreides)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MarshAtreidess)
 [![Twitter/X](https://img.shields.io/badge/Twitter_X-13171A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MarshAtreides)
 [![Roblox](https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/10032960193/profile)
